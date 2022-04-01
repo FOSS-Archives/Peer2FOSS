@@ -2,10 +2,10 @@
 
 ![Peergos Logo](https://peergos.org/theme/img/peergos/logo-main.svg)
 
-Peergos
+PeerGos-Based:
 ========
 
-Peergos is building the next web - the private web, where end users are in control. Imagine web apps being secure by default and unable to track you. Imagine being able to control exactly what personal data each web app can see. Imagine never having to log in to an app ever again. You own your data and decide where it is stored and who can see it. At Peergos, we believe that privacy is a fundamental human right and we want to make it easy for everyone to interact online in ways that respect this right.
+Downstream from Peergos - The next private-web, where end users are in control. Imagine web apps being secure by default and unable to track you. Imagine being able to control exactly what personal data each web app can see. Imagine never having to log in to an app ever again. You own your data and decide where it is stored and who can see it. At Peergos, we believe that privacy is a fundamental human right and we want to make it easy for everyone to interact online in ways that respect this right.
 
 The foundation of Peergos is a peer-to-peer encrypted global filesystem with fine-grained access control designed to be resistant to surveillance of data content or friendship graphs. It will have a secure messenger, with optional interoperability with email, and a totally private and secure social network, where users are in control of who sees what (executed cryptographically). Our motto at Peergos is, "Control your data, control your destiny."
 
